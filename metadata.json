@@ -1,0 +1,7 @@
+{
+  "name": "JioFFTopup - Bangladesh Free Fire Store",
+  "description": "A professional gaming top-up platform for Free Fire diamonds and memberships in Bangladesh with admin dashboard and local payment integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
